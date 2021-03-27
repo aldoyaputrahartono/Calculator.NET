@@ -1,0 +1,15 @@
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.exe
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.deps.json
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.runtimeconfig.json
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.runtimeconfig.dev.json
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.dll
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\netcoreapp3.1\KalkulatorSederhana.pdb
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csprojAssemblyReference.cache
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.Form1.resources
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csproj.GenerateResource.cache
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.AssemblyInfoInputs.cache
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.AssemblyInfo.cs
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.dll
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.pdb
+C:\Users\aldo\source\repos\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\netcoreapp3.1\KalkulatorSederhana.genruntimeconfig.cache
